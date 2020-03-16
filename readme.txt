@@ -8,3 +8,5 @@ Begin to learn git!
    git log --pretty=oneline
 6. git reset --hard commit_id/HEAD^/HEAD^^/HEAD~100
 7. git reflog
+8. git checkout -- <file>
+9. git reset HEAD <file>
