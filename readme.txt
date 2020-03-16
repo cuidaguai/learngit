@@ -6,3 +6,5 @@ Begin to learn git!
 4. git diff <file>
 5. git log
    git log --pretty=oneline
+6. git reset --hard commit_id/HEAD^/HEAD^^/HEAD~100
+7. git reflog
