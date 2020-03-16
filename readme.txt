@@ -10,3 +10,6 @@ Begin to learn git!
 7. git reflog
 8. git checkout -- <file>
 9. git reset HEAD <file>
+10. git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+11. ssh-keygen -t rsa -C "youremail@example.com"
