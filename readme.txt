@@ -4,3 +4,5 @@ Begin to learn git!
    git commit <file> -m <message>
 3. git status
 4. git diff <file>
+5. git log
+   git log --pretty=oneline
