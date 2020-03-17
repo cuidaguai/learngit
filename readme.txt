@@ -16,3 +16,4 @@ Begin to learn git!
 12. git remote add origin https://github.com/cuidaguai/learngit.gi
     git push -u origin master
     git push origin master
+13. git clone git@github.com:cuidaguai/gitskills.git
