@@ -13,3 +13,5 @@ Begin to learn git!
 10. git config --global user.name "Your Name"
     git config --global user.email you@example.com
 11. ssh-keygen -t rsa -C "youremail@example.com"
+12. git remote add origin https://github.com/cuidaguai/learngit.gi
+    git push -u origin master
