@@ -17,3 +17,7 @@ Begin to learn git!
     git push -u origin master
     git push origin master
 13. git clone git@github.com:cuidaguai/gitskills.git
+14. git checkout -b dev
+    git branch dev
+    git checkout dev
+15. git branch
