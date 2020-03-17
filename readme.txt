@@ -15,3 +15,4 @@ Begin to learn git!
 11. ssh-keygen -t rsa -C "youremail@example.com"
 12. git remote add origin https://github.com/cuidaguai/learngit.gi
     git push -u origin master
+    git push origin master
