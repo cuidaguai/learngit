@@ -21,3 +21,5 @@ Begin to learn git!
     git branch dev
     git checkout dev
 15. git branch
+16. git merge dev
+17. git branch -d dev
